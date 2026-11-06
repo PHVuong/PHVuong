@@ -17,7 +17,7 @@
 ## 📌 Về bản thân
 
 - 🔭 **Hiện tại:** Đang tập trung nghiên cứu, phát triển các giải pháp phần mềm hiện đại và tối ưu hiệu năng.
-- 🌱 **Học hỏi & Nâng cao:** Cập nhật các kiến tạo hệ thống mới, DevOps và Cloud.
+- 🌱 **Học hỏi & Nâng cao:** Cập nhật các kiến tạo hệ thống mới.
 - 💬 **Thế mạnh:** Tư duy logic giải quyết vấn đề, viết code sạch (clean code) và làm việc nhóm linh hoạt.
 - ⚡ **Sở thích:** Tìm hiểu công nghệ mới, mã nguồn mở và đọc sách kỹ thuật.
 
@@ -26,13 +26,13 @@
 ## 📬 Kết nối với mình
 
 <p align="left">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:phanhungvuong2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/your-profile" target="_blank">
+  <a href="[https://facebook.com/your-profile](https://www.facebook.com/phvuong0505)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
